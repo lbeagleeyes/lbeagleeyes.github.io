@@ -28,6 +28,14 @@ h1 {
     color: #777777;
 }
 
+.link:link{
+    color: #777777;
+}
+
+.link:visited{
+    color:#777777;
+}
+
 .nav-link:visited{
     color:#777777;
 }
